@@ -30,6 +30,17 @@
 | **Bancos de dados** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white) ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge) |
 | **Ambiente** | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) |
 
+## 📫 Contato
+
+<p align="center">
+  <a href="mailto:gabriel.santosctt8@gmail.com">
+    <img src="https://img.shields.io/badge/E--mail-gabriel.santosctt8%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail: gabriel.santosctt8@gmail.com" />
+  </a>
+  <a href="https://wa.me/558398416618">
+    <img src="https://img.shields.io/badge/WhatsApp-Conversar-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Conversar no WhatsApp" />
+  </a>
+</p>
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:00b4d8,50:1b4965,100:0d1b2a" width="100%" alt="" />
 </p>
